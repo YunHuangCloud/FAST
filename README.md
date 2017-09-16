@@ -2,7 +2,7 @@
 FAST: Feature-Aware Student knowledge Tracing (old version)
 ------------------------------------------------
 
-The latest code is in anothe repository: https://github.com/ml-smores/fast. Sorry for the confusion.
+The latest code is in another repository: https://github.com/ml-smores/fast. Sorry for the confusion.
 
 
 This is an implementation of FAST model (http://educationaldatamining.org/EDM2014/uploads/procs2014/long%20papers/84_EDM-2014-Full.pdf). This readme contains FAST's code usage, input file format and major output files. 
